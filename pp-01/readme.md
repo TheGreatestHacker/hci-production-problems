@@ -35,7 +35,7 @@ remote GitHub repository. Follow the steps below exactly to receive full credit.
    where you should now have this file, `readme.md`, on your local computer. Open the file in your
    editor, and write below the URL to your fork of the GitHub repository, and the add and commit:
 
-   My Production Problems repository URL:
+   My Production Problems repository URL: https://github.com/TheGreatestHacker/hci-production-problems
 
 4. Next, push your commit to GitHub. `git push origin master` from your command line.
 
