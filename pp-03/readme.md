@@ -24,20 +24,26 @@ repository for Project 2.**
 
 3. List the names of your group members here:
 
-4. Copy and paste the URL for your group’s GitHub organization here:
+4. Copy and paste the URL for your group’s GitHub organization here: https://github.com/fridayatgalvin
 
-5. Copy and paste the URL for your group’s shared repository for Project Two here:
+5. Copy and paste the URL for your group’s shared repository for Project Two here: https://github.com/fridayatgalvin/362-Project2
 
 6. Each member of the group should fork the repository (including the group member whose account
 was used to create the GitHub organization for your project).
 
-Write the URL for your personal fork of the repository here:
+Write the URL for your personal fork of the repository here: https://github.com/TheGreatestHacker/362-Project2
 
 7. Each member of the group should clone their forked copy of the repository to his/her computer.
 Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run
 `git remote add group` followed by the URL for your group’s repository.
 
 Write or copy & paste the output of `git remote -v` from your copy of the forked repository here:
+~/Documents/IIT/ITM362/group-project/362-Project2$ git remote -v
+group	git@github.com:fridayatgalvin/362-Project2.git (fetch)
+group	git@github.com:fridayatgalvin/362-Project2.git (push)
+origin	git@github.com:TheGreatestHacker/362-Project2.git (fetch)
+origin	git@github.com:TheGreatestHacker/362-Project2.git (push)
+
 
 8. Next, each group member should add to the `README.md` file his/her name, and a brief few
 sentences of what the member believes are his/her primary strengths. Prior to doing that, be sure to
@@ -48,4 +54,4 @@ strengths. Add and commit your own work, and push to your own repository (`git p
 repository. Each group member should review the request before it is merged, and then pull from the
 group repository to have a complete, up-to-date `README.md` file.
 
-Write the URL of your pull request here:
+Write the URL of your pull request here: https://github.com/fridayatgalvin/362-Project2/pull/1 
